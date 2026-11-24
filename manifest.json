@@ -1,19 +1,253 @@
 {
   "format": 1,
   "appMinVersion": 1,
-  "updated": "2026-11-24T21:30:59Z",
+  "updated": "2026-11-24T22:03:17Z",
   "packs": [
+    {
+      "id": "6.1.172-c22",
+      "kmi": "6.1.172",
+      "cls": "c22",
+      "size": 14224367,
+      "sha256": "9cacfc5830c1989c3112045a6bf0d7bca5b766c7ebe165442ad5ed7ee3371269",
+      "urls": [
+        "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/6.1.172-c22.zip",
+        "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/6.1.172-c22.zip",
+        "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/6.1.172-c22.zip",
+        "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/6.1.172-c22.zip"
+      ]
+    },
+    {
+      "id": "6.6-drv-drv",
+      "kmi": "6.6-drv",
+      "cls": "drv",
+      "size": 22208754,
+      "sha256": "72ff6dc89b7c80848b272e05c33d8b45024a953b6cb81cf43b076afa7a87c567",
+      "urls": [
+        "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/6.6-drv-drv.zip",
+        "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/6.6-drv-drv.zip",
+        "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/6.6-drv-drv.zip",
+        "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/6.6-drv-drv.zip"
+      ]
+    },
+    {
+      "id": "6.6.127-2391-c13",
+      "kmi": "6.6.127-2391",
+      "cls": "c13",
+      "size": 1192966,
+      "sha256": "de9e54361cca83e6be621f7e9b56d90e0c591f587162416a2fd271d5f646a3c7",
+      "urls": [
+        "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/6.6.127-2391-c13.zip",
+        "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/6.6.127-2391-c13.zip",
+        "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/6.6.127-2391-c13.zip",
+        "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/6.6.127-2391-c13.zip"
+      ]
+    },
     {
       "id": "6.6.127-7741-c1",
       "kmi": "6.6.127-7741",
       "cls": "c1",
-      "size": 10705974,
-      "sha256": "8dd99e1c97e11bd0f77222e8a79079b850bad368cd4fa8452f332bdbe24c65b5",
+      "size": 6944447,
+      "sha256": "9ab01b7be8d318e8528a4e6655bb4f02334ae9e1e3ea832de161105b7eb1455f",
       "urls": [
         "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/6.6.127-7741-c1.zip",
         "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/6.6.127-7741-c1.zip",
         "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/6.6.127-7741-c1.zip",
         "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/6.6.127-7741-c1.zip"
+      ]
+    },
+    {
+      "id": "baka-drv",
+      "kmi": "baka",
+      "cls": "drv",
+      "size": 7868842,
+      "sha256": "986e2277932c8c2300d021bcb858d0f67e5c5a91192c33e97ed31052eb94dfd2",
+      "urls": [
+        "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/baka-drv.zip",
+        "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/baka-drv.zip",
+        "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/baka-drv.zip",
+        "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/baka-drv.zip"
+      ]
+    },
+    {
+      "id": "common-core",
+      "kmi": "common",
+      "cls": "core",
+      "size": 6865492,
+      "sha256": "abc4aa719ecd219cadb1aa29db59b6aa446c8a02e6ba7a557f5856790b4bea01",
+      "urls": [
+        "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/common-core.zip",
+        "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/common-core.zip",
+        "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/common-core.zip",
+        "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/common-core.zip"
+      ]
+    },
+    {
+      "id": "common-managers",
+      "kmi": "common",
+      "cls": "managers",
+      "size": 11106534,
+      "sha256": "c5f5c6f498b81b677605640985d86049f8de0e5dbe9865ed8db3ff425accc141",
+      "urls": [
+        "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/common-managers.zip",
+        "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/common-managers.zip",
+        "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/common-managers.zip",
+        "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/common-managers.zip"
+      ]
+    },
+    {
+      "id": "common-misc",
+      "kmi": "common-misc",
+      "cls": "any",
+      "size": 123717,
+      "sha256": "b375a4f62ce720b3ef5b3976e43882c4dbca45637d74002a2d87ed5e7e23d566",
+      "urls": [
+        "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/common-misc.zip",
+        "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/common-misc.zip",
+        "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/common-misc.zip",
+        "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/common-misc.zip"
+      ]
+    },
+    {
+      "id": "common-mods",
+      "kmi": "common-mods",
+      "cls": "any",
+      "size": 19867570,
+      "sha256": "7fed866c3b496a38e17211b03706510c19e86273615cbfcc8127a989cd95e203",
+      "urls": [
+        "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/common-mods.zip",
+        "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/common-mods.zip",
+        "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/common-mods.zip",
+        "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/common-mods.zip"
+      ]
+    },
+    {
+      "id": "ictimer-drv",
+      "kmi": "ictimer",
+      "cls": "drv",
+      "size": 3417390,
+      "sha256": "df7191958ca295e1f3ac83f4b9371f8754e2a529e532e41f3f01919c9ffe3165",
+      "urls": [
+        "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/ictimer-drv.zip",
+        "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/ictimer-drv.zip",
+        "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/ictimer-drv.zip",
+        "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/ictimer-drv.zip"
+      ]
+    },
+    {
+      "id": "n10-drv",
+      "kmi": "n10",
+      "cls": "drv",
+      "size": 7820417,
+      "sha256": "ef1175293490823d479f11802b66a3131d6902124fed824c108d2ff4dc88f481",
+      "urls": [
+        "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/n10-drv.zip",
+        "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/n10-drv.zip",
+        "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/n10-drv.zip",
+        "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/n10-drv.zip"
+      ]
+    },
+    {
+      "id": "n11-drv",
+      "kmi": "n11",
+      "cls": "drv",
+      "size": 306326,
+      "sha256": "87d4e338b5e852591d5c068821a82485f57e3b7d7dffa4bfa9d15441aa6e5e03",
+      "urls": [
+        "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/n11-drv.zip",
+        "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/n11-drv.zip",
+        "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/n11-drv.zip",
+        "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/n11-drv.zip"
+      ]
+    },
+    {
+      "id": "orange7-drv",
+      "kmi": "orange7",
+      "cls": "drv",
+      "size": 5454848,
+      "sha256": "e29a97d6f8b01d490e3f0f592b0a70816596d61ed152a379599fcb67502e3c30",
+      "urls": [
+        "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/orange7-drv.zip",
+        "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/orange7-drv.zip",
+        "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/orange7-drv.zip",
+        "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/orange7-drv.zip"
+      ]
+    },
+    {
+      "id": "p26-drv",
+      "kmi": "p26",
+      "cls": "drv",
+      "size": 852525,
+      "sha256": "142d2bc4e7a07e575155e76b1c861997ec4635cacfeac32266439c2bbddc04d2",
+      "urls": [
+        "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/p26-drv.zip",
+        "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/p26-drv.zip",
+        "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/p26-drv.zip",
+        "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/p26-drv.zip"
+      ]
+    },
+    {
+      "id": "pd2458-drv",
+      "kmi": "pd2458",
+      "cls": "drv",
+      "size": 854433,
+      "sha256": "127db05643138d1943c836e9f626ec1dd3d04f256828495c754f4b4680e5c0e1",
+      "urls": [
+        "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/pd2458-drv.zip",
+        "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/pd2458-drv.zip",
+        "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/pd2458-drv.zip",
+        "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/pd2458-drv.zip"
+      ]
+    },
+    {
+      "id": "s25-drv",
+      "kmi": "s25",
+      "cls": "drv",
+      "size": 4445735,
+      "sha256": "b547120734bfc56bba4bdac593cc59e58528e7a241aeb73acb5cd250eccf94c7",
+      "urls": [
+        "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/s25-drv.zip",
+        "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/s25-drv.zip",
+        "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/s25-drv.zip",
+        "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/s25-drv.zip"
+      ]
+    },
+    {
+      "id": "shancha-drv",
+      "kmi": "shancha",
+      "cls": "drv",
+      "size": 414627,
+      "sha256": "5760289e9609e33653dea9649dbfaefd9c8b674ab3d2f3749d387cd5b809bac8",
+      "urls": [
+        "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/shancha-drv.zip",
+        "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/shancha-drv.zip",
+        "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/shancha-drv.zip",
+        "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/shancha-drv.zip"
+      ]
+    },
+    {
+      "id": "ujiang-drv",
+      "kmi": "ujiang",
+      "cls": "drv",
+      "size": 9546,
+      "sha256": "6d1aee98934a796241d3e4b47163760163c83ca27af241ebaf9ee471aab679a9",
+      "urls": [
+        "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/ujiang-drv.zip",
+        "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/ujiang-drv.zip",
+        "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/ujiang-drv.zip",
+        "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/ujiang-drv.zip"
+      ]
+    },
+    {
+      "id": "yc-drv",
+      "kmi": "yc",
+      "cls": "drv",
+      "size": 9025795,
+      "sha256": "d322ee7ef15f9110421b7b4c9610416e1dc692df355364cd00c4f96a8673cb8a",
+      "urls": [
+        "https://github.com/rzxcwy/shiyue-packs/releases/download/v1/yc-drv.zip",
+        "https://ghfast.top/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/yc-drv.zip",
+        "https://ghproxy.net/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/yc-drv.zip",
+        "https://gh-proxy.com/https://github.com/rzxcwy/shiyue-packs/releases/download/v1/yc-drv.zip"
       ]
     }
   ]
